@@ -1,0 +1,15 @@
+
+declaration a : entier  ;
+
+
+asdhada
+
+ gg
+
+
+ a :=  150 ;
+ghju
+ecrire ( a ) ;
+asdhakdsa 
+ashdlasd 
+asda s
